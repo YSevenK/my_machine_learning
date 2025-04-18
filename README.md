@@ -9,3 +9,5 @@
     Tutorial Python - 4 Gradient Descent and Cost Function [这](https://www.youtube.com/watch?v=vsWrXfO3wWw&t=2s)
 
     Tutorial Python - 5 Save Model Using Joblib And Pickle [这](https://www.youtube.com/watch?v=KfnhNlD8WZI)
+
+    Tutorial Python - 6: Dummy Variables & One Hot Encoding [z](https://www.youtube.com/watch?v=9yl6-HEY7_s)
