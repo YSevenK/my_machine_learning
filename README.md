@@ -11,3 +11,5 @@
     Tutorial Python - 5 Save Model Using Joblib And Pickle [这](https://www.youtube.com/watch?v=KfnhNlD8WZI)
 
     Tutorial Python - 6: Dummy Variables & One Hot Encoding [z](https://www.youtube.com/watch?v=9yl6-HEY7_s)
+
+    Tutorial Python - 8 Logistic Regression (Multiclass Classification) [1](https://www.youtube.com/watch?v=J5bXOOmkopc&t=19s)
