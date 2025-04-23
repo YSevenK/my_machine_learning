@@ -13,3 +13,5 @@
     Tutorial Python - 6: Dummy Variables & One Hot Encoding [z](https://www.youtube.com/watch?v=9yl6-HEY7_s)
 
     Tutorial Python - 8 Logistic Regression (Multiclass Classification) [1](https://www.youtube.com/watch?v=J5bXOOmkopc&t=19s)
+
+    Tutorial Python - 9 Decision Tree[biu](https://www.youtube.com/watch?v=PHxYNGo8NcI)
